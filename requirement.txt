@@ -1,0 +1,7 @@
+tensorflow
+keras
+pandas
+scikit_learn
+Image
+streamlit
+tensorflow.keras
